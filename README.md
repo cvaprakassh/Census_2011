@@ -121,4 +121,8 @@ t1 = pd.read_sql(query, engine)
 
 update the code in the .py file and run it through the streamlit run P1_app.py in command promt.
 
+Clone the repo:
+   ```bash
+    https://github.com/cvaprakassh/Census_2011.git
+
    
